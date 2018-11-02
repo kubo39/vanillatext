@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+vanillatext.so
+vanillatext.dylib
+vanillatext.dll
+vanillatext.a
+vanillatext.lib
+vanillatext-test-*
+*.exe
+*.o
+*.obj
+*.lst
+vanillatext

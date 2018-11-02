@@ -1,0 +1,6 @@
+name "vanillatext"
+description "A minimal D application."
+authors "Hiroki Noda"
+copyright "Copyright © 2018, Hiroki Noda"
+license "BSL-1.0"
+dependency "gtk-d:gtkd" version="~>3.8.3"
